@@ -1,1 +1,1 @@
-## Class Exercises from UFBA
+## Exercises from UFBA classes
